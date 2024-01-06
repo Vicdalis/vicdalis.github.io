@@ -1,5 +1,5 @@
 import { useQuery  } from '@apollo/client';
-import { GET_CHARACTER } from '../queries';
+import { GET_CHARACTER } from '../components/queries';
 import Loader from '../loading';
 import React from 'react';
 import detailStyles from '../../styles/DetailCharacter.module.css';

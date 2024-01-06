@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { useQuery  } from '@apollo/client';
-import { GET_ALL_EPISODES } from '../queries';
+import { GET_ALL_EPISODES } from '../components/queries';
 import Select from 'react-select';
 import { useRouter } from 'next/router';
 

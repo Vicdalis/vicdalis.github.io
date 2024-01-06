@@ -1,20 +1,8 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/cardCharacter": "pages/cardCharacter.js",
-  "/characterDetails/[id]": "pages/characterDetails/[id].js",
-  "/characterDetails/contentDetail": "pages/characterDetails/contentDetail.js",
-  "/characterDetails/headerDetail": "pages/characterDetails/headerDetail.js",
-  "/episodeDetails/contentEpisodeDetail": "pages/episodeDetails/contentEpisodeDetail.js",
-  "/episodeDetails/[id]": "pages/episodeDetails/[id].js",
-  "/filter": "pages/filter.js",
-  "/gridContainer": "pages/gridContainer.js",
-  "/loading": "pages/loading.js",
-  "/header": "pages/header.js",
-  "/pagination": "pages/pagination.js",
-  "/layout": "pages/layout.js",
+  "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/selectListEpisodes/selectListEpisodes": "pages/selectListEpisodes/selectListEpisodes.js",
-  "/queries": "pages/queries.js",
-  "/_document": "pages/_document.js"
+  "/characterDetails/[id]": "pages/characterDetails/[id].js",
+  "/episodeDetails/[id]": "pages/episodeDetails/[id].js"
 }

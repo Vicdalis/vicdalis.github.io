@@ -3,7 +3,7 @@ import gridStyles from "../styles/GridContainer.module.css";
 import Select from 'react-select';
 import { useEffect, useState } from "react";
 import { useQuery, NetworkStatus  } from '@apollo/client';
-import { GET_LOCATIONS } from './queries';
+import { GET_LOCATIONS } from './components/queries';
 
 export default function Filter(props){
     const [isLoading, setIsLoading] = useState({

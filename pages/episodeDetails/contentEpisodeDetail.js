@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { useQuery  } from '@apollo/client';
-import { GET_EPISODE } from '../queries';
+import { GET_EPISODE } from '../components/queries';
 import Loader from '../loading';
 import CardCharacter from '../cardCharacter';
 import SelectListEpisodes from '../selectListEpisodes/selectListEpisodes';

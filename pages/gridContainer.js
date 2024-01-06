@@ -1,5 +1,5 @@
 import { useQuery  } from '@apollo/client';
-import { GET_CHARACTERS } from './queries';
+import { GET_CHARACTERS } from './components/queries';
 import Filter from './filter';
 import React, { useState } from 'react';
 import Pagination from './pagination';
