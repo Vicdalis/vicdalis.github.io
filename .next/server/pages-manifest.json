@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/characterDetails/contentDetail": "pages/characterDetails/contentDetail.js",
+  "/cardCharacter": "pages/cardCharacter.js",
+  "/characterDetails/headerDetail": "pages/characterDetails/headerDetail.js",
+  "/episodeDetails/contentEpisodeDetail": "pages/episodeDetails/contentEpisodeDetail.js",
+  "/episodeDetails/[id]": "pages/episodeDetails/[id].js",
+  "/characterDetails/[id]": "pages/characterDetails/[id].js",
+  "/filter": "pages/filter.js",
+  "/gridContainer": "pages/gridContainer.js",
+  "/header": "pages/header.js",
+  "/layout": "pages/layout.js",
+  "/loading": "pages/loading.js",
+  "/": "pages/index.js",
+  "/pagination": "pages/pagination.js",
+  "/selectListEpisodes/selectListEpisodes": "pages/selectListEpisodes/selectListEpisodes.js",
+  "/queries": "pages/queries.js",
+  "/_document": "pages/_document.js"
+}
